@@ -1,17 +1,30 @@
-# my_app_vovk
+# Карточки с фактами
+## Нажав на кнопку, вы получите забавный факт!
 
-A new Flutter project.
+## Вовк Тимофей ИСП-242 17.10.2026
 
-## Getting Started
+## Стек и версии
+- Flutter: 3.47.6
+- Dart: 3.13.5
+- Платформа: Web (**Edge**)
+- IDE: VS Code
 
-This project is a starting point for a Flutter application.
+## Скриншот приложения
 
-A few resources to get you started if this is your first Flutter project:
+![](img/step6_Vovk.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Структура проекта
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Как запустить
+
+- git clone <[ссылка на репозиторий](https://github.com/Westigrannik/Flutter_Lab6.git)>
+- cd <папка проекта>
+- flutter pub get
+- flutter run -d chrome
+
+## Что изучили 
+
+1. Изучили. как работать с рандомом
+2. Изучили. как работать со списками
+3. Изучили, как с помощью рандома работать со списками
+4. Изучили, как делать своё приложение
